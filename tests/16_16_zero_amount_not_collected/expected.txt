@@ -1,0 +1,6 @@
+go 1
+state 1 0 0 0 5
+collect exp
+state 1 0 0 0 _
+go 0
+result 0 0 0 5 5

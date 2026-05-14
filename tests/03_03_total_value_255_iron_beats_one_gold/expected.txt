@@ -1,0 +1,6 @@
+go 1
+state 1 255 1 0 0
+collect iron
+state 1 _ 1 0 0
+go 0
+result 255 0 0 0 1785
