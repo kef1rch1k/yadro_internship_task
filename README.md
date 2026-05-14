@@ -54,7 +54,7 @@ python3 run_tests.py ./task --tests tests
 
 Скрипт для каждого теста копирует `in.txt` в рабочую папку, запускает программу и сравнивает `result.txt` с `expected.txt` побайтово.
 
-## Структура проекта
+# Структура проекта
 ```text
 include/
 src/
